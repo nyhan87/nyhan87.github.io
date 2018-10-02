@@ -2,6 +2,14 @@ h1 {
     color: blueviolet;
 }
 
+#h1 {
+    color: blue;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: arial;
+    background-image: url("cat.jpg");
+}
+
 h2 {
 
     color: purple;
@@ -58,9 +66,5 @@ img {
 }
 
 table {
-    border-color: peru;
-    border-style: groove;
-    border-radius: 5px;
-    border-width: 2px;
     font-size: 15px;
 }
