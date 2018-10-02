@@ -1,0 +1,66 @@
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+
+    color: purple;
+}
+
+#p1 {
+    color: blue;
+}
+
+#p1 {
+    color: plum;
+    font-weight: bold;
+    font-family: arial;
+}
+
+p a {
+    color: white;
+}
+
+#p2 {
+    color: green;
+}
+
+.tacos {
+    font-size: 72px;
+}
+
+img {
+    height: 300px;
+}
+#cat {
+    height: 250px;
+}
+
+#p1 {
+    text-shadow: 1px 1px 1px rgb(44, 3, 48);
+}
+
+#p4 {
+    font-family: Arial;
+    color: brown;
+    font-weight: bold;
+}
+
+#p2 {
+    background-color: aqua;
+}
+
+#p3 {
+    text-decoration: underline;
+    font-weight: bold;
+    color: brown;
+    font-family: arial;
+}
+
+table {
+    border-color: peru;
+    border-style: groove;
+    border-radius: 5px;
+    border-width: 2px;
+    font-size: 15px;
+}
